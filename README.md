@@ -54,5 +54,3 @@
 1. [구자협(팀장)](https://github.com/koojahyeob) - 데이터 전처리, MCLP 모델링, 발표
 2. [김민준](https://github.com/mouseeater) - 데이터 전처리, MCLP 모델링, 정책 제안
 3. [이승규](https://github.com/SeungGGyu) - 데이터 전처리, MCLP 모델링, 문제 제안
-
-## 5. 증빙자료
